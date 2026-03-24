@@ -63,6 +63,7 @@ export default async function Page() {
           headline="De descuidado a impecável"
           subheadline="Transformações reais em São José do Rio Preto"
           supporting="Barbearia premium para homens que valorizam estilo"
+          whatsappUrl="https://wa.me/5517999999999"
         />
 
         <section id="sobre" className="section">
